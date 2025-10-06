@@ -1,7 +1,8 @@
 # Stack-in-cpp
 
 **Aim:** To study the concept of **Stack** in C++ and implement operations like push, pop, and display.  
-**Tools:**Vs code.  
+
+**Tools:** Vs code.  
 
 # Theory  
 A **Stack** is a linear data structure that follows the **LIFO (Last In, First Out)** principle.  
